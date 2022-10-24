@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to lab 6 👋</h1>
+<h1 align="center">Welcome to lab 7 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -47,17 +47,15 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab 6 Tasks 
+## :page_facing_up: Lab 7 Tasks 
 
 :arrow_right: `Use the HTML and CSS files provided for this lab.`
 
 :arrow_right: `Work in pair code group and apply the principles in a collaborative approach.`
 
-:arrow_right: `Complete the functionality of the calculator app by providing the JavaScript code to make it funcational.`
+:arrow_right: `Complete the functionality of the Tic Tac Toe game by providing the JavaScript code to make it funcational.`
 
-:arrow_right: `Complete the functionality of the calculator app by providing the JavaScript code to make it funcational.`
-
-:arrow_right: `Complete a technical report for each function of the calculator app, use the report markdown file.`
+:arrow_right: `Complete a technical report for each function of the Tic Tac Toe app, use the report markdown file.`
 
 :arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
 
